@@ -1,0 +1,21 @@
+LISTE DUBLU INLANTUITE
+  <-(prev)k(next)->
+  
+NULL<-1-><-4-><-2->NULL
+
+INSERARE
+alocam spatiu de memorie pentru aux
+citim x;
+aux->k=x;
+aux->next=l;
+aux->prev=NULL;
+l=aux;
+
+PARCURGERE stanga->dreapta
+ luam variabila p;
+ for(p=l;p;p=p->next)
+ ....................
+ 
+ PARCURGERE dreapta la stanga
+ for(p=l;p=>next;p=p->next);
+ for(q=p;q;q=q->prev)

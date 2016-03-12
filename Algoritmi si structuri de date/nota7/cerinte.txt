@@ -1,0 +1,14 @@
+1.Afisare elemente in ordine inversa a unei liste simplu inlantuite pe loc si prin copiere
+2.Afisare elemente in ordine inversa a unei liste dublu inlantuite pe loc 
+3.Afisare elemente in ordine inversa a unei cozi pe loc
+4.Cautarea unei chei intr-un arbore binar
+5.Elementele aflate in intervalul [a,b]
+6.Suma elementelor pozitive/negative/oarecare a unei liste simplu inlantuite
+7.Media elementelor pozitive/negative/oarecare a unei liste simplu inlantuite
+8.Suma elementelor pozitive/negative/oarecare ale unei cozi
+9.Media elementelor pozitive/negative/oarecare ale unei cozi
+10.Suma elementelor pozitive/negative/oarecare ale unui arbore.
+11.Inaltimea sub-arborelui stang.
+12.Inaltimea sub-arborelui drept.
+13.Media elementelor unui arbore.
+14.Sa se afiseze toate caile dintr-un arbore(nota 9)

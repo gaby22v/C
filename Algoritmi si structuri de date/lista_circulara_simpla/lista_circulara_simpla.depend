@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1387220551 source:c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\main.c
+	<stdio.h>
+	<conio.h>
+	<malloc.h>
+	<stdlib.h>
+	<string.h>
+	<values.h>
+	"construire.h"
+	"initializare.h"
+	"afisare.h"
+	"suma.h"
+	"lungime.h"
+	"maxim.h"
+
+1387139316 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\construire.h
+
+1387139385 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\initializare.h
+	"construire.h"
+
+1387139398 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\afisare.h
+
+1387139798 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\suma.h
+
+1387139800 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\lungime.h
+
+1387220515 c:\users\gaby\skydrive\programe\asd\lista_circulara_simpla\maxim.h
+
